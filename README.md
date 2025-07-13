@@ -1,16 +1,33 @@
-## Hi there 👋
+# </S0_Code>
+### Software & System Development | Clean, scalable, structured
 
-<!--
-**S0-Code/S0-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+👋 Hello! I'm Sofian, a passionate developer with a focus on software, systems, and smart solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages:** Java, SQL, Bash, SH
+- **Systems:** Linux (Debian/Ubuntu), Windows
+- **Databases:** PostgreSQL, MySQL
+- **Networking:** IPv4, IPv6, DNS, DHCP, TCP/UDP
+- **Analysis:** Functional & technical requirements, UML diagrams, use case modeling, system documentation
+
+
+## 🛠️ What I Do
+
+- Write clean, scalable, and maintainable code
+- Automate tasks with Bash/Shell scripts
+- Design and manage relational databases
+- Build and analyze system architectures
+- Solve networking and infrastructure issues
+
+## 📬 Contact
+
+- 💼 Professional: So.Code@outlook.com
+- 📨 Personal (for opportunities): sofianbenaissa1998@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sofian-ben-aissa-7590b029a)
+
+---
+
+> “Clean code, smart ideas.” – </S0_Code>

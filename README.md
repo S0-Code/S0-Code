@@ -1,3 +1,5 @@
+![Banner](github_banner.png)
+
 # 👋 Bonjour ! / Hello !
 
 ## 🚀 Sofian Ben Aissa
